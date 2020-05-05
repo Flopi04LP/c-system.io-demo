@@ -1,0 +1,10 @@
+C:\Users\flo\source\repos\IO_Intro\IO_Intro\bin\Debug\IO_Intro.exe.config
+C:\Users\flo\source\repos\IO_Intro\IO_Intro\bin\Debug\IO_Intro.exe
+C:\Users\flo\source\repos\IO_Intro\IO_Intro\bin\Debug\IO_Intro.pdb
+C:\Users\flo\source\repos\IO_Intro\IO_Intro\obj\Debug\IO_Intro.csprojAssemblyReference.cache
+C:\Users\flo\source\repos\IO_Intro\IO_Intro\obj\Debug\IO_Intro.Form1.resources
+C:\Users\flo\source\repos\IO_Intro\IO_Intro\obj\Debug\IO_Intro.Properties.Resources.resources
+C:\Users\flo\source\repos\IO_Intro\IO_Intro\obj\Debug\IO_Intro.csproj.GenerateResource.cache
+C:\Users\flo\source\repos\IO_Intro\IO_Intro\obj\Debug\IO_Intro.csproj.CoreCompileInputs.cache
+C:\Users\flo\source\repos\IO_Intro\IO_Intro\obj\Debug\IO_Intro.exe
+C:\Users\flo\source\repos\IO_Intro\IO_Intro\obj\Debug\IO_Intro.pdb
